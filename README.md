@@ -4,3 +4,4 @@ The INFRA-EAR data that has been used within the study of "A bird's-eye view on 
 
 The availible data within this repository consists of processed infrasound recordings by the [INFRA-EAR](https://amt.copernicus.org/articles/14/3301/2021/amt-14-3301-2021.pdf). Raw recordings are converted intp Power Spectral density curves (PSD), following the Welch method. The PSDs are presented in Pascals, as variable of time and frequency. 
 
+[![DOI](https://zenodo.org/badge/389752562.svg)](https://zenodo.org/badge/latestdoi/389752562)
